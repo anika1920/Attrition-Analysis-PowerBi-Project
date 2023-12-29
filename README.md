@@ -22,13 +22,17 @@ This project explores employee data to provide a thorough understanding of facto
 
 ## Key Insights:
 
-1. ### Attrition Rate: Identified a concerning attrition rate of 16.12%, highlighting the necessity for proactive retention strategies.
+1. ### Attrition Rate:
+    Identified a concerning attrition rate of 16.12%, highlighting the necessity for proactive retention strategies.
 
-2. ### Sales Representatives: Noted sales representatives as the group experiencing the highest attrition rate.
+2. ### Sales Representatives:
+   Noted sales representatives as the group experiencing the highest attrition rate.
 
-3. ### Employee Tenure: Discovered an inverse relationship between employee tenure and attrition rate, indicating that as the number of years spent at the company increases, attrition tends to decrease.
+3. ### Employee Tenure:
+   Discovered an inverse relationship between employee tenure and attrition rate, indicating that as the number of years spent at the company increases, attrition tends to decrease.
 
-4. ### Income Range: Found that the lowest income range corresponds to the highest incidence of attrition.
+4. ### Income Range:
+   Found that the lowest income range corresponds to the highest incidence of attrition.
 
-Feel free to explore the Power BI report [here](https://github.com/anika1920/Attrition-Analysis-PowerBi-Project/blob/main/Attrition%20Analysis.pdf) to interact with the visualizations and dive deeper into the analysis.
+Feel free to explore the Full Power BI report [here](https://github.com/anika1920/Attrition-Analysis-PowerBi-Project/blob/main/Attrition%20Analysis.pdf) to interact with the visualizations and dive deeper into the analysis.
 
