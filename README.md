@@ -2,25 +2,21 @@
 
 Here is my project on Employee Attrition !🌟 Using data from Kaggle, I navigated through workforce insights with the help of Power BI.
 
+**Overview**
+This project explores employee data to provide a thorough understanding of factors influencing attrition in the workplace. We're digging into why employees leave their roles by analyzing details like job roles, tenure, and income ranges. Using Power BI for insightful visualizations, we aim to identify trends that can inform strategic decisions, ultimately contributing to enhancing overall employee satisfaction and retention.
+
+**Software needed **
+- Excel
+- Power BI Desktop
+- 
 **Project Workflow:**
 
-1. **Data Import, Cleaning, and Transformation:**
-   - Ensured data integrity through thorough import and cleaning processes.
-
-2. **Data Modeling:**
-   - Constructed a robust data model to facilitate meaningful insights.
-
-3. **DAX Measures for Necessary Metrics:**
-   - Implemented Data Analysis Expressions (DAX) measures to calculate key metrics essential for attrition analysis.
-
-4. **Creating a Power BI Report:**
-   - Developed an interactive and visually appealing Power BI report.
-
-5. **Implementing Row-Level Security (RLS):**
-   - Ensured data security and confidentiality through the implementation of Row-Level Security.
-
-6. **Publishing the Report in the Workspace with Allowed Access:**
-   - Shared the report in the designated workspace with controlled access permissions.
+   1. *Data Import, Cleaning, and Transformation*
+   2. *Data Modeling*
+   3. *DAX Measures for Necessary Metrics*
+   4. *Creating a Power BI Report*
+   5. *Implementing Row-Level Security (RLS)*
+   6. *Publishing the Report in the Workspace with Allowed Access*
 
 **Key Insights:**
 
