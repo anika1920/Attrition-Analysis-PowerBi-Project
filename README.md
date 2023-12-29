@@ -1,6 +1,6 @@
 # Employee Attrition Analysis 📊
 
-I am excited to present my latest project - Employee Attrition Analysis! 🌟 Leveraging Kaggle data, I embarked on a data journey utilizing Power BI.
+Here is my project on Employee Attrition !🌟 Using data from Kaggle, I navigated through workforce insights with the help of Power BI.
 
 **Project Workflow:**
 
@@ -32,8 +32,5 @@ I am excited to present my latest project - Employee Attrition Analysis! 🌟 Le
 
 4. *Income Range:* Found that the lowest income range corresponds to the highest incidence of attrition.
 
-Feel free to explore the Power BI report [here](#) to interact with the visualizations and delve deeper into the analysis.
+Feel free to explore the Power BI report [here](https://github.com/anika1920/Attrition-Analysis-PowerBi-Project/blob/main/Attrition%20Analysis.pdf) to interact with the visualizations and dive deeper into the analysis.
 
----
-
-This version aims to provide a more polished and structured presentation of your Employee Attrition Analysis project for your GitHub README.
