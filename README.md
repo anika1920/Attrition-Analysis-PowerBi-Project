@@ -1,4 +1,4 @@
-#Employee Attrition Analysis 📊
+*#Employee Attrition Analysis 📊*
 
 I am excited to present my latest project - Employee Attrition Analysis! 🌟 Leveraging Kaggle data, I embarked on a data journey utilizing Power BI.
 
